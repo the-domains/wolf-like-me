@@ -1,0 +1,28 @@
+name: Wolf like me
+favicon: null
+layout_spectrum: 0.6245255069807172
+typography_spectrum: 0.7253652375657111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.62360571580939
+  lightness: 0.175446015316993
+  saturation: 0.09054006030783057
+  rhythmicContrast: 0.3108504966367036
+purpose: []
